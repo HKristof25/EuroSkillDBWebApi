@@ -11,10 +11,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("9fc7170c-d0fb-4403-a003-622e08e16803")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("SzakmakApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+deae53cb24d72f5a6cf7c90840f7a97a1f9231b1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e32324714edbab63e15ca23e5db9d3112b474313")]
 [assembly: System.Reflection.AssemblyProductAttribute("SzakmakApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SzakmakApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\HKris\\Desktop\\EuroSkillDBWebApi\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{AFA824AB-5C8B-4AC8-B805-E188F94BE4A9}|SzakmakApi\\SzakmakApi.csproj|c:\\users\\hkris\\desktop\\euroskilldbwebapi\\szakmakapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFA824AB-5C8B-4AC8-B805-E188F94BE4A9}|SzakmakApi\\SzakmakApi.csproj|solutionrelative:szakmakapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFA824AB-5C8B-4AC8-B805-E188F94BE4A9}|SzakmakApi\\SzakmakApi.csproj|c:\\users\\hkris\\desktop\\euroskilldbwebapi\\szakmakapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AFA824AB-5C8B-4AC8-B805-E188F94BE4A9}|SzakmakApi\\SzakmakApi.csproj|solutionrelative:szakmakapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFA824AB-5C8B-4AC8-B805-E188F94BE4A9}|SzakmakApi\\SzakmakApi.csproj|c:\\users\\hkris\\desktop\\euroskilldbwebapi\\szakmakapi\\szakmakapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AFA824AB-5C8B-4AC8-B805-E188F94BE4A9}|SzakmakApi\\SzakmakApi.csproj|solutionrelative:szakmakapi\\szakmakapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AFA824AB-5C8B-4AC8-B805-E188F94BE4A9}|SzakmakApi\\SzakmakApi.csproj|c:\\users\\hkris\\desktop\\euroskilldbwebapi\\szakmakapi\\data\\versenyzodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AFA824AB-5C8B-4AC8-B805-E188F94BE4A9}|SzakmakApi\\SzakmakApi.csproj|solutionrelative:szakmakapi\\data\\versenyzodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -26,24 +38,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SzakmakApi.csproj",
+              "DocumentMoniker": "C:\\Users\\HKris\\Desktop\\EuroSkillDBWebApi\\SzakmakApi\\SzakmakApi.csproj",
+              "RelativeDocumentMoniker": "SzakmakApi\\SzakmakApi.csproj",
+              "ToolTip": "C:\\Users\\HKris\\Desktop\\EuroSkillDBWebApi\\SzakmakApi\\SzakmakApi.csproj",
+              "RelativeToolTip": "SzakmakApi\\SzakmakApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-05T11:41:07.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HKris\\Desktop\\EuroSkillDBWebApi\\SzakmakApi\\appsettings.json",
+              "RelativeDocumentMoniker": "SzakmakApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\HKris\\Desktop\\EuroSkillDBWebApi\\SzakmakApi\\appsettings.json",
+              "RelativeToolTip": "SzakmakApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-05T11:40:05.172Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "versenyzoDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\HKris\\Desktop\\EuroSkillDBWebApi\\SzakmakApi\\Data\\versenyzoDbContext.cs",
-              "RelativeDocumentMoniker": "SzakmakApi\\Data\\versenyzoDbContext.cs",
-              "ToolTip": "C:\\Users\\HKris\\Desktop\\EuroSkillDBWebApi\\SzakmakApi\\Data\\versenyzoDbContext.cs",
-              "RelativeToolTip": "SzakmakApi\\Data\\versenyzoDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA0AAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HKris\\Desktop\\EuroSkillDBWebApi\\SzakmakApi\\Program.cs",
+              "RelativeDocumentMoniker": "SzakmakApi\\Program.cs",
+              "ToolTip": "C:\\Users\\HKris\\Desktop\\EuroSkillDBWebApi\\SzakmakApi\\Program.cs",
+              "RelativeToolTip": "SzakmakApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T11:34:29.511Z",
+              "WhenOpened": "2025-11-05T11:38:52.913Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "versenyzoDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\HKris\\Desktop\\EuroSkillDBWebApi\\SzakmakApi\\Data\\versenyzoDbContext.cs",
+              "RelativeDocumentMoniker": "SzakmakApi\\Data\\versenyzoDbContext.cs",
+              "ToolTip": "C:\\Users\\HKris\\Desktop\\EuroSkillDBWebApi\\SzakmakApi\\Data\\versenyzoDbContext.cs",
+              "RelativeToolTip": "SzakmakApi\\Data\\versenyzoDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T11:34:29.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "versenyzo.cs",
               "DocumentMoniker": "C:\\Users\\HKris\\Desktop\\EuroSkillDBWebApi\\SzakmakApi\\Models\\versenyzo.cs",
               "RelativeDocumentMoniker": "SzakmakApi\\Models\\versenyzo.cs",
@@ -55,7 +103,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "orszag.cs",
               "DocumentMoniker": "C:\\Users\\HKris\\Desktop\\EuroSkillDBWebApi\\SzakmakApi\\Models\\orszag.cs",
               "RelativeDocumentMoniker": "SzakmakApi\\Models\\orszag.cs",
@@ -67,7 +115,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "szakma.cs",
               "DocumentMoniker": "C:\\Users\\HKris\\Desktop\\EuroSkillDBWebApi\\SzakmakApi\\Models\\szakma.cs",
               "RelativeDocumentMoniker": "SzakmakApi\\Models\\szakma.cs",
@@ -75,8 +123,7 @@
               "RelativeToolTip": "SzakmakApi\\Models\\szakma.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T10:33:45.607Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-05T10:33:45.607Z"
             }
           ]
         }

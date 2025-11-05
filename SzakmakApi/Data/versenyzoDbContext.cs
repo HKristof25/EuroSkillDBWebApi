@@ -1,6 +1,7 @@
-﻿namespace SzakmakApi.Data;
-using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.EntityFrameworkCore;
 using SzakmakApi.Models;
+
+namespace SzakmakApi.Data
 {
     public class versenyzoDbContext : DbContext
     {
