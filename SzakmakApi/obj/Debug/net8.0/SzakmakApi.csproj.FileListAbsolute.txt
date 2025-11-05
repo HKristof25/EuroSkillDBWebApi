@@ -160,3 +160,4 @@ C:\Users\HKris\Desktop\EuroSkillDBWebApi\SzakmakApi\obj\Debug\net8.0\refint\Szak
 C:\Users\HKris\Desktop\EuroSkillDBWebApi\SzakmakApi\obj\Debug\net8.0\SzakmakApi.pdb
 C:\Users\HKris\Desktop\EuroSkillDBWebApi\SzakmakApi\obj\Debug\net8.0\SzakmakApi.genruntimeconfig.cache
 C:\Users\HKris\Desktop\EuroSkillDBWebApi\SzakmakApi\obj\Debug\net8.0\ref\SzakmakApi.dll
+C:\Users\HKris\Desktop\EuroSkillDBWebApi\SzakmakApi\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

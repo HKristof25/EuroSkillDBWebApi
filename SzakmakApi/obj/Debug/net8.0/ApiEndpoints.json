@@ -1,5 +1,61 @@
 [
   {
+    "ContainingType": "SzakmakApi.Controllers.VersenyzoController",
+    "Method": "GetVersenyzok",
+    "RelativePath": "api/Versenyzo",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[SzakmakApi.Models.versenyzo, SzakmakApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "SzakmakApi.Controllers.VersenyzoController",
+    "Method": "AddVersenyzo",
+    "RelativePath": "api/Versenyzo",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Versenyzo",
+        "Type": "SzakmakApi.Models.versenyzo",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "SzakmakApi.Models.versenyzo",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "SzakmakApi.Controllers.VersenyzoController",
+    "Method": "Index",
+    "RelativePath": "api/Versenyzo",
+    "HttpMethod": "",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "SzakmakApi.Controllers.WeatherForecastController",
     "Method": "Get",
     "RelativePath": "WeatherForecast",
